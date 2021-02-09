@@ -1,0 +1,16 @@
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\EntryPoint.exe
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\EntryPoint.deps.json
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\EntryPoint.runtimeconfig.json
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\EntryPoint.runtimeconfig.dev.json
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\EntryPoint.dll
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\EntryPoint.pdb
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\SortingAlgorithms.dll
+F:\DevProjects\.Net\Algorithms\EntryPoint\bin\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.csprojAssemblyReference.cache
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.AssemblyInfoInputs.cache
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.AssemblyInfo.cs
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.csproj.CoreCompileInputs.cache
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.csproj.CopyComplete
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.dll
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.pdb
+F:\DevProjects\.Net\Algorithms\EntryPoint\obj\Debug\netcoreapp3.1\EntryPoint.genruntimeconfig.cache
