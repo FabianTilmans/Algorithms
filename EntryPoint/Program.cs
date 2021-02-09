@@ -9,7 +9,7 @@ namespace EntryPoint
         {
             int[] arr = new []{9,4,3,4,1,5,6,4};
 
-            arr = InsertionSort.Sort(arr);
+            arr = HeapSort.Sort(arr);
             foreach (int i in arr)
             {
                 Console.Write(i +", ");
